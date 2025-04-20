@@ -10,4 +10,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 
 
-2023 XYZ, Inc.
+2022 XYZ, Inc.
